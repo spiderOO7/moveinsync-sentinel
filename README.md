@@ -149,8 +149,8 @@ MoveInSync operates multiple fleet-monitoring modules (Safety, Compliance, Feedb
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/manirht/Sentinel.git
-cd Sentinel
+git clone https://github.com/spiderOO7/moveinsync-sentinel.git
+cd moveinsync-sentinel
 ```
 
 #### 2. Backend Setup
@@ -559,12 +559,6 @@ Sentinel/
 │
 └── README.md
 ```
-
-## 👨‍💻 Contributors
-
-- **Name** - Mani Rohit
-- **Email**: manirohit221004@gmail.com
-- **GitHub**: [@manirht](https://github.com/manirht)
 
 ## 📄 License
 
